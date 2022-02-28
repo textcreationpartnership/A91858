@@ -1,0 +1,665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A synopsis of theology or divinity. Drawn up by Francis Roberts, M.A. minister of the gospel, for the benefit of his flock.</title>
+            <author>Roberts, Francis, 1609-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91858</idno>
+            <idno type="STC">Wing R1595</idno>
+            <idno type="STC">Thomason 69.f.10[21]</idno>
+            <idno type="STC">ESTC R210340</idno>
+            <idno type="EEBO-CITATION">99869149</idno>
+            <idno type="PROQUEST">99869149</idno>
+            <idno type="VID">162562</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91858)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162562)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A synopsis of theology or divinity. Drawn up by Francis Roberts, M.A. minister of the gospel, for the benefit of his flock.</title>
+                  <author>Roberts, Francis, 1609-1675.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Young, for John Bartlet, at the signe of the Gilt-Cup, under Austins Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>An. Dom. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In chart form.</note>
+                  <note>Annotations on Thomason copy: "March 19th 1644"; the 5 in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="synopsis">
+            <pb facs="tcp:162562:1" rendition="simple:additions"/>
+            <head>A SYNOPSIS of THEOLOGY or DIVINITY.
+Drawn up by FRANCIS ROBERTS, M. A. Miniſter of the Goſpel, for the benefit of his Flock.</head>
+            <p>EOLOGY is a (a) divine doctrine,<note place="margin">COMMON PLACES.</note> according to the (b) Scriptures, of religious (c) living unto God, in order to Mans (d) happineſſe, and Gods (e) glory. (a) 1 <hi>Tim. 6. 3. Rom.</hi> 6. 17.
+with 2 <hi>Tim. 1. 13. Heb.</hi> 5. 12. with 6. 1. <hi>Eſay 51. 4. John 9. 29. Matth. 21. 25. John 6. 45. Galat.</hi> 1. 11, 12. (b) <hi>Eſay 8. 20. John 5. 39. Rom. 15. 4. 2 Tim.</hi> 3. 15, 16, 17. (c) <hi>John</hi> 6. 68.
+<hi>Acts</hi> 5. 20. (d) <hi>Rom. 6. 11, 22, 23. John</hi> 3. 36. with 5. 24. 1 <hi>Joh.</hi> 3. 15. (e) 1 <hi>Cor. 10. 31. 2 Cor. 4. 10, 11. Phil.</hi> 1. 20.</p>
+            <list>
+               <item>THEOLO<g ref="char:EOLhyphen"/>GY,
+(or the <hi>Doctrine of Divinity,</hi> thus de<g ref="char:EOLhyphen"/>ſcribed)
+may, for the clearer under<g ref="char:EOLhyphen"/>ſtanding
+of it, be conſidered according to all the <hi>foure cauſes</hi> of it, <hi>viz.</hi> The
+<list>
+                     <item>I. <hi>Efficient Cauſe,</hi> or firſt <hi>Principle</hi> of this Doctrine of <hi>Theologie,</hi> whereupon it is firmly grounded, wherein it is clearly revealed, and whereby it is fully proved, is the divine revelation of it in the
+<list>
+                           <item>1. <hi>Holy Scripture.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>II. <hi>Formall Cauſe</hi> of this Do<g ref="char:EOLhyphen"/>ctrine
+of THEOLOGIE, is either
+<list>
+                           <item>1. <hi>Inward,</hi> viz. That ſweet harmony betwixt the ſenſe of this Doctrine, and the true ſenſe of Scripture, and ſo conſequently, the mind and meaning of God himſelfe.</item>
+                           <item>2. <hi>Outward,</hi> viz. The method or diſpoſition of this ſyſtem or body of divine Doctrine, which may be variouſly drawne up, according to the various rules of Art and Method: Provided alwaies,
+that the order of divine diſpenſations, clearly obſerved in Scriptures, be not thereby inverted or obſcured.</item>
+                        </list>
+                     </item>
+                     <item>III. <hi>Materi<g ref="char:EOLhyphen"/>all
+cauſe,</hi> com<g ref="char:EOLhyphen"/>priſing
+all the ſubject mat<g ref="char:EOLhyphen"/>ters,
+wherein our <hi>religious li<g ref="char:EOLhyphen"/>ving
+to God</hi> conſiſts: which are handled in <hi>Divinity;</hi> and may be redu<g ref="char:EOLhyphen"/>ced
+to two heads (whence the <hi>two parts of Divinity</hi> re<g ref="char:EOLhyphen"/>ſult)
+<hi>viz.</hi>
+                        <list>
+                           <item>1. Matters to be known and beleeved con<g ref="char:EOLhyphen"/>cerning
+God: <hi>and they re<g ref="char:EOLhyphen"/>ſpect
+Gods</hi>
+                              <list>
+                                 <item>1. <hi>Nature,</hi> wherein are conſidera<g ref="char:EOLhyphen"/>ble
+<list>
+                                       <item>1. <hi>What God is</hi> in himſelfe: So he may be conſidered
+<list>
+                                             <item>1. <hi>Eſſentially,</hi> as One in Eſſence
+<list>
+                                                   <item>2. God.</item>
+                                                   <item>3. Vnity of Eſſence.</item>
+                                                </list>
+                                             </item>
+                                             <item>2. <hi>Perſonally,</hi> as Three in Subſiſtence
+<list>
+                                                   <item>4. Trinity of perſons.</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                       <item>2. <hi>Who,</hi> or <hi>what manner of God he is;</hi> both according to the divine
+<list>
+                                             <item>1. <hi>Titles,</hi> by which he is named, viz. the
+<list>
+                                                   <item>5. Names of God.</item>
+                                                </list>
+                                             </item>
+                                             <item>2. <hi>Properties,</hi> which are to him attributed, viz. the divine
+<list>
+                                                   <item>6. Attributes
+<list>
+                                                         <item>1. Eſſentiall.</item>
+                                                         <item>2. Perſonall.</item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>2. <hi>Works,</hi> which are either
+<list>
+                                       <item>1. <hi>Internall,</hi> eternall and immanent in GOD himſelfe, <hi>viz.</hi> His Decree it ſelfe.
+<list>
+                                             <item>7. Works of God in generall.</item>
+                                             <item>8. Decree.</item>
+                                          </list>
+                                       </item>
+                                       <item>2. <hi>Externall,</hi> temporall, and tranſient from God to the creature, viz. his actuall ex<g ref="char:EOLhyphen"/>cution
+of his Decree, which he doth two waies, by
+<list>
+                                             <item>1. <hi>Originall production</hi> of all things out of nothing, exceeding good: which may be conſidered
+<list>
+                                                   <item>1. More generally, in reference to the whole world; by
+<list>
+                                                         <item>9. Creation.</item>
+                                                      </list>
+                                                   </item>
+                                                   <item>2. More ſpecially, in references to the principall parts of the world, intel<g ref="char:EOLhyphen"/>lectuall
+creatures in
+<list>
+                                                         <item>1. Heaven
+<list>
+                                                               <item>10. <hi>Angels.</hi>
+                                                                  <list>
+                                                                     <item>1. State of Creation.</item>
+                                                                  </list>
+                                                               </item>
+                                                            </list>
+                                                         </item>
+                                                         <item>2. Earth
+<list>
+                                                               <item>11. Men.</item>
+                                                            </list>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                             <item>2. <hi>Actuall pro<g ref="char:EOLhyphen"/>viſion</hi>
+for all things crea<g ref="char:EOLhyphen"/>ted,
+by his actuall provi<g ref="char:EOLhyphen"/>dence,
+both in his
+<list>
+                                                   <item>1. <hi>Diſpenſations naturall,</hi> for the generall good of all the creatures naturall beings and well beings: and this by his
+<list>
+                                                         <item>12. Providence
+<list>
+                                                               <item>1. Generall.</item>
+                                                               <item>2. Particular.</item>
+                                                            </list>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                   <item>2. <hi>Diſpenſations ſupernaturall,</hi> for the ſpeci<g ref="char:EOLhyphen"/>all
+good of the intellectuall creatures in their ſuperna<g ref="char:EOLhyphen"/>turall
+beings and well be<g ref="char:EOLhyphen"/>ings,
+partly by his
+<list>
+                                                         <item>1. <hi>Confirmation of the elect Angels,</hi> that kept their firſt eſtate, which the reprobate Angels left
+<list>
+                                                               <item>13. Confirmation of Angels.
+<list>
+                                                                     <item>II. State of Corruption.</item>
+                                                                  </list>
+                                                               </item>
+                                                            </list>
+                                                         </item>
+                                                         <item>2. <hi>Reſtauration of man,</hi> that loſt his firſt eſtate: herein are compriſed the
+<list>
+                                                               <item>1. <hi>Malady,</hi> into which man was plunged, and from whence he was to be reſtored, viz. his firſt apoſtacie from God
+by his
+<list>
+                                                                     <item>14. Fall into</item>
+                                                                     <item>1. Sin.</item>
+                                                                     <item>2. Miſery.
+<list>
+                                                                           <item>III. State of Reſtitution.</item>
+                                                                        </list>
+                                                                     </item>
+                                                                  </list>
+                                                               </item>
+                                                            </list>
+                                                         </item>
+                                                         <item>2. <hi>Remedy,</hi> whereby man was reſtored from this ma<g ref="char:EOLhyphen"/>lady,
+viz. RE<g ref="char:EOLhyphen"/>DEMPTION
+by <hi>Jeſus Chriſt.</hi> In this Re<g ref="char:EOLhyphen"/>demption
+are to be obſerved three things, viz. the
+<list>
+                                                               <item>1. <hi>Publication</hi> or <hi>Revelation</hi> of it to mankind, in the glad tidings of the
+<list>
+                                                                     <item>15. Goſpell.</item>
+                                                                  </list>
+                                                               </item>
+                                                               <item>2. <hi>Operation</hi> or <hi>Pre<g ref="char:EOLhyphen"/>paration</hi>
+of it for man: herein conſi<g ref="char:EOLhyphen"/>der
+<list>
+                                                                     <item>1. <hi>The Perſon</hi> that wrought mans redemption, viz. only that Immanuel,
+GOD-MAN
+<list>
+                                                                           <item>16. Redemption.</item>
+                                                                           <item>17. IESUS CHRIST.</item>
+                                                                        </list>
+                                                                     </item>
+                                                                     <item>2. <hi>The Office</hi> laid upon him, whereby he accompliſhed this work
+<list>
+                                                                           <item>18. Office of Chriſt.</item>
+                                                                        </list>
+                                                                     </item>
+                                                                     <item>3. <hi>The States</hi> wherein he diſcharged this office, <hi>viz.</hi> His
+<list>
+                                                                           <item>19. State of
+<list>
+                                                                                 <item>1. Humiliation.</item>
+                                                                                 <item>2. Exaltation.</item>
+                                                                              </list>
+                                                                           </item>
+                                                                        </list>
+                                                                     </item>
+                                                                  </list>
+                                                               </item>
+                                                               <item>3. <hi>Appli<g ref="char:EOLhyphen"/>cation</hi>
+of it unto man. This applicati<g ref="char:EOLhyphen"/>on
+may be conſide<g ref="char:EOLhyphen"/>red
+<list>
+                                                                     <item>1. <hi>Abſolute<g ref="char:EOLhyphen"/>ly</hi>
+in it ſelf; and ſo it containes Gods
+<list>
+                                                                           <item>1. <hi>Salvificall be<g ref="char:EOLhyphen"/>nefits,</hi>
+them<g ref="char:EOLhyphen"/>ſelves,
+which in Chriſt are applied by ſe<g ref="char:EOLhyphen"/>verall
+ſteps and degrees; tranſlating man from mi<g ref="char:EOLhyphen"/>ſery
+to mercy, from ſin to grace, from grace to glory: and this by ad<g ref="char:EOLhyphen"/>vancing
+man to
+<list>
+                                                                                 <item>1. <hi>Union to Chriſt,</hi> ſeparating man unto himſelf from the common corrupt maſſe of mankind, by
+<list>
+                                                                                       <item>20. Vocation effectuall.</item>
+                                                                                    </list>
+                                                                                 </item>
+                                                                                 <item>2. Commu<g ref="char:EOLhyphen"/>nion
+with Chriſt,
+<list>
+                                                                                       <item>1. In his ſpotleſſe <hi>Righteouſneſſe,</hi> by
+<list>
+                                                                                             <item>21. Communion with God in Chriſt.</item>
+                                                                                             <item>22. Iuſtification actuall.</item>
+                                                                                          </list>
+                                                                                       </item>
+                                                                                       <item>2. In his matchleſſe <hi>Sonſhip,</hi> by
+<list>
+                                                                                             <item>23. Adoption.</item>
+                                                                                          </list>
+                                                                                       </item>
+                                                                                       <item>3. In his true <hi>Holineſſe,</hi> by
+<list>
+                                                                                             <item>24. Sanctification reall.
+<list>
+                                                                                                   <item>IV. State of Perfection.</item>
+                                                                                                </list>
+                                                                                             </item>
+                                                                                          </list>
+                                                                                       </item>
+                                                                                       <item>4. In his endleſſe <hi>Happineſſe,</hi> by
+<list>
+                                                                                             <item>25. Glorification eternall.</item>
+                                                                                          </list>
+                                                                                       </item>
+                                                                                       <item>This Glo<g ref="char:EOLhyphen"/>ry
+is com<g ref="char:EOLhyphen"/>municated
+<list>
+                                                                                             <item>1. <hi>Particularly</hi> &amp; incomplete<g ref="char:EOLhyphen"/>ly
+to every elect ſoul only at his particular
+<list>
+                                                                                                   <item>26. Death.</item>
+                                                                                                </list>
+                                                                                             </item>
+                                                                                             <item>2. <hi>Generally</hi> &amp; completely to both ſouls &amp; bodies of all the elect at the generall
+<list>
+                                                                                                   <item>27. End of the world.</item>
+                                                                                                </list>
+                                                                                             </item>
+                                                                                          </list>
+                                                                                       </item>
+                                                                                    </list>
+                                                                                 </item>
+                                                                              </list>
+                                                                           </item>
+                                                                           <item>2. <hi>Inſtrumentall meanes,</hi> where<g ref="char:EOLhyphen"/>by
+theſe ſa<g ref="char:EOLhyphen"/>ving
+benefits are effectually applied, viz. the outward Ordinances of God: which are either
+<list>
+                                                                                 <item>1. <hi>Ordina<g ref="char:EOLhyphen"/>ry</hi>
+uſed upon all occaſions: and theſe are either
+<list>
+                                                                                       <item>1. <hi>Primary Ordinances,</hi> made more principally prevalent for the breeding and nouriſh<g ref="char:EOLhyphen"/>ing
+union and communion with Chriſt; Theſe are to be conſidered
+<list>
+                                                                                             <item>1. <hi>Eſſentially,</hi> according to their ſub<g ref="char:EOLhyphen"/>ſtance
+and peculiar operation, both to our
+<list>
+                                                                                                   <item>1. <hi>Confederation</hi> with GOD in Chriſt, as the diſpenſation and preaching of the
+<list>
+                                                                                                         <item>28. Word.</item>
+                                                                                                         <item>29. Promiſes.</item>
+                                                                                                         <item>30. Covenant of Grace.</item>
+                                                                                                      </list>
+                                                                                                   </item>
+                                                                                                   <item>2. <hi>Confirmation</hi> in that confede<g ref="char:EOLhyphen"/>ration,
+as the adminiſtration of the ſeales of the Cove<g ref="char:EOLhyphen"/>nant,
+viz.
+<list>
+                                                                                                         <item>31. The Sacraments.</item>
+                                                                                                      </list>
+                                                                                                   </item>
+                                                                                                </list>
+                                                                                             </item>
+                                                                                             <item>2. <hi>Accidentally,</hi> according to their circumſtance and manner of ad<g ref="char:EOLhyphen"/>miniſtration
+in the times before and under the Old and New Te<g ref="char:EOLhyphen"/>ſtaments
+<list>
+                                                                                                   <item>32. Manner of adminiſtration of the Covenant and Sacraments before and under the old and New Teſtaments.</item>
+                                                                                                </list>
+                                                                                             </item>
+                                                                                          </list>
+                                                                                       </item>
+                                                                                       <item>2. <hi>Secondary Ordinances,</hi> ſubſervient unto the former, in promoting the birth and growth of grace in the ſoule, viz.
+<list>
+                                                                                             <item>33. Reading, or hearing the word read.</item>
+                                                                                             <item>34. Catechiſing.</item>
+                                                                                             <item>35. Religious conference.</item>
+                                                                                             <item>36. Meditation.</item>
+                                                                                             <item>37. Prayer.</item>
+                                                                                             <item>38. Singing of Pſalmes.</item>
+                                                                                             <item>39. Communion of Saints.</item>
+                                                                                          </list>
+                                                                                       </item>
+                                                                                    </list>
+                                                                                 </item>
+                                                                                 <item>2. <hi>Extraordinary,</hi> uſed only upon ſpeciall &amp; extraordi<g ref="char:EOLhyphen"/>nary
+occaſions, for the advancement &amp; improvement of our intereſts in Chriſt: and theſe are religious
+<list>
+                                                                                       <item>40. Faſts.</item>
+                                                                                       <item>41. Feaſts.</item>
+                                                                                       <item>42. Vowes or Covenants.</item>
+                                                                                    </list>
+                                                                                 </item>
+                                                                              </list>
+                                                                           </item>
+                                                                        </list>
+                                                                     </item>
+                                                                     <item>2. <hi>Relatively,</hi> in reference to the
+<list>
+                                                                           <item>1. <hi>Proper Inſtrument,</hi> whereby on our part this appli<g ref="char:EOLhyphen"/>cation
+is ſavingly received, viz.
+<list>
+                                                                                 <item>43. True Faith.</item>
+                                                                              </list>
+                                                                           </item>
+                                                                           <item>2. <hi>Peculiar Subject,</hi> unto which theſe benefits of re<g ref="char:EOLhyphen"/>demption
+are applied by theſe meanes, viz.
+<list>
+                                                                                 <item>44. The Church.</item>
+                                                                              </list>
+                                                                           </item>
+                                                                        </list>
+                                                                     </item>
+                                                                  </list>
+                                                               </item>
+                                                            </list>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>2. Matters to be done and obſerved in obedience un<g ref="char:EOLhyphen"/>to
+God. <hi>Here<g ref="char:EOLhyphen"/>in
+are to be obſerved.</hi>
+                        <list>
+                           <item>1. <hi>The Rule of Obedience,</hi> laid downe more generally in the <hi>word</hi> of God; more ſpecially in the <hi>Law</hi> of God, which regulateth Obedience, in
+<list>
+                                 <item>1. <hi>Politicall and Civill matters.</hi> Thus the Jewes Common-wealth was regulated by the
+<list>
+                                       <item>45. Law.</item>
+                                       <item>46. Iudiciall Law.</item>
+                                    </list>
+                                 </item>
+                                 <item>2. Eccleſiaſticall and Religious matters, <hi>which are either</hi>
+                                    <list>
+                                       <item>1. <hi>Typicall,</hi> peculiar to certaine times and perſons only. Thus the Jewiſh Church, during the Old Teſtament, was under the Pedagogy of the
+<list>
+                                             <item>47. Ceremoniall Law.</item>
+                                          </list>
+                                       </item>
+                                       <item>2. <hi>Morall,</hi> appertaining to all perſons at all times. Thus both Jewes and Gentiles, be<g ref="char:EOLhyphen"/>fore
+and under both the Old and New Teſtaments, are under the
+<list>
+                                             <item>48. Morall Law.</item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>2. The na<g ref="char:EOLhyphen"/>ture
+of this Obedience, <hi>which is conſidered</hi>
+                              <list>
+                                 <item>1. <hi>More generally,</hi> here are conſiderable the generall nature of
+<list>
+                                       <item>49. Obedience and</item>
+                                       <item>50. Good works.</item>
+                                    </list>
+                                 </item>
+                                 <item>2. <hi>More ſpecially,</hi> &amp; ſo it com<g ref="char:EOLhyphen"/>prehends
+<list>
+                                       <item>1. <hi>The inward Principle of Obedience</hi> whence all obedientiall Acts do flow, viz. the infuſed Habit or Habits of true
+<list>
+                                             <item>51. Vertue
+<list>
+                                                   <item>1. Theologicall.</item>
+                                                   <item>2. Philadelphicall.
+<list>
+                                                         <item>I. Table.</item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                       <item>2. <hi>The inward and outward acts</hi> or <hi>exerciſe of Obedience,</hi> flowing from this Princi<g ref="char:EOLhyphen"/>ple
+of vertue, to be expreſ<g ref="char:EOLhyphen"/>ſed
+<list>
+                                             <item>1. <hi>Towards God,</hi> in an ho<g ref="char:EOLhyphen"/>ly
+worſhip of him, which is ſtiled RELI<g ref="char:EOLhyphen"/>GION
+and Piety. This Piety is exer<g ref="char:EOLhyphen"/>ciſed
+<list>
+                                                   <item>1. <hi>In the having and worſhipping of the true God,</hi> and him alone, for our God in Chriſt; which is the proper ſcope of the
+<list>
+                                                         <item>52. Religion, Piety.</item>
+                                                         <item>53. I. <hi>Commandement.</hi>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                   <item>2. In the true worſhip of this true God. <hi>And herein are contained</hi>
+                                                      <list>
+                                                         <item>1. <hi>The true and pure worſhip it ſelfe,</hi> which is to be performed to this one onely true God, meerly according to his owne will: as is preſcribed in the
+<list>
+                                                               <item>54. II. <hi>Commandement.</hi>
+                                                               </item>
+                                                            </list>
+                                                         </item>
+                                                         <item>2. <hi>The Ad<g ref="char:EOLhyphen"/>juncts</hi>
+of this wor<g ref="char:EOLhyphen"/>ſhip,
+<hi>viz.</hi>
+                                                            <list>
+                                                               <item>1. <hi>The true manner How</hi> this true God will alwaies be worſhipped by us, viz. ſo Reverendly, Holily, Sincerely, &amp;c. as may be moſt honourable to his great and holy <hi>Name,</hi> as is required in the
+<list>
+                                                                     <item>55. III. <hi>Commandement.</hi>
+                                                                     </item>
+                                                                  </list>
+                                                               </item>
+                                                               <item>2. <hi>The ſpeciall Time When</hi> God will be more ſolemnly and publickly worſhipped, <hi>viz.</hi> on <hi>his Day of Sab<g ref="char:EOLhyphen"/>bath,</hi>
+oth under the Old and New Teſtament, which <hi>Sabbath</hi> is ſanctified by him authoritatively, and is to be ſanctified by us obedientially, as is enjoyned in the
+<list>
+                                                                     <item>56. IV. <hi>Commandement.</hi>
+                                                                        <list>
+                                                                           <item>II. Table.</item>
+                                                                        </list>
+                                                                     </item>
+                                                                  </list>
+                                                               </item>
+                                                            </list>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                             <item>2. <hi>Towards Man,</hi> in righ<g ref="char:EOLhyphen"/>teouſneſs,
+bro<g ref="char:EOLhyphen"/>therly
+love and ſobriety, which are to be performed
+<list>
+                                                   <item>1. <hi>In deed, word and thought</hi> towards our neighbour, conſidered ei<g ref="char:EOLhyphen"/>ther
+<list>
+                                                         <item>1. <hi>Relatively,</hi> in reference to that relation, order or degree of his condition, wherein God hath ſet him amongſt men, by giving reſpective <hi>honour</hi> to him, according to the
+<list>
+                                                               <item>57. Righteouſneſſe, Brotherly love, Sobriety.</item>
+                                                               <item>58. V. <hi>Commandement.</hi>
+                                                               </item>
+                                                            </list>
+                                                         </item>
+                                                         <item>2. <hi>Abſo<g ref="char:EOLhyphen"/>lutely,</hi>
+in regard of
+<list>
+                                                               <item>1. <hi>His perſon,</hi> preſerving his
+<list>
+                                                                     <item>1. <hi>Life</hi> and Health, by offices of <hi>Humanity,</hi> enjoyned in the
+<list>
+                                                                           <item>59. VI. <hi>Commandement.</hi>
+                                                                           </item>
+                                                                        </list>
+                                                                     </item>
+                                                                     <item>2. <hi>Purity,</hi> by offices of <hi>Chaſtity,</hi> required in the
+<list>
+                                                                           <item>60. VIII. <hi>Commandement.</hi>
+                                                                           </item>
+                                                                        </list>
+                                                                     </item>
+                                                                     <item>2. <hi>His Goods</hi> and Poſſeſſions, by acts of <hi>Juſtice commutative,</hi> preſcribed in the
+<list>
+                                                                           <item>61. VIII. <hi>Commandement.</hi>
+                                                                           </item>
+                                                                        </list>
+                                                                     </item>
+                                                                     <item>3. <hi>His good name,</hi> by acts of <hi>truth</hi> and <hi>veracity,</hi> commanded in the
+<list>
+                                                                           <item>62. IX. <hi>Commandement.</hi>
+                                                                           </item>
+                                                                        </list>
+                                                                     </item>
+                                                                  </list>
+                                                               </item>
+                                                            </list>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                   <item>2. <hi>In the very firſt motions of the heart</hi> (even thoſe motions that go before a complete and deliberate aſſent) towards our neighbour, in re<g ref="char:EOLhyphen"/>ference
+to all and every one of the fore-going Commandements of the ſecond Table. The well ordering of which motions is charged upon us in the
+<list>
+                                                         <item>63. X. <hi>Commandement.</hi>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>IV. <hi>Finall cauſe,</hi> or the end whereunto our religi<g ref="char:EOLhyphen"/>ous
+living unto God tends, is either
+<list>
+                     <item>1. <hi>Subordinate,</hi> and leſſe Principall, reſpecting man, <hi>viz.</hi> The preſent and future
+<list>
+                           <item>64. Happineſſe of Man.</item>
+                        </list>
+                     </item>
+                     <item>2. <hi>Ultimate,</hi> and moſt principall, reſpecting God himſelfe, <hi>viz.</hi> The preſent and eternall
+<list>
+                           <item>65. Glory of God.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed by <hi>James Young,</hi> for <hi>John Bartlet,</hi> at the Signe of the Gilt-Cup, under <hi>Auſtins</hi> Gate. <hi>An. Dom.</hi> 1645.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
